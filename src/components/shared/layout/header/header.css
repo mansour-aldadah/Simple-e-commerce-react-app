@@ -1,0 +1,17 @@
+#numOfProduct {
+  top: 0;
+  left: 27%;
+}
+.search {
+  background-color: #5757ff !important;
+  color: white !important;
+}
+.search:hover {
+  background-color: white !important;
+  color: #5757ff !important;
+  border: 1px solid #5757ff !important;
+}
+
+.cart {
+  color: #5757ff;
+}
